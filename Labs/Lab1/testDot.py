@@ -21,3 +21,6 @@ def dotProduct(x,y,n):
 		dp = dp + x[j]*y[j]
 	return dp
 driver()
+//the code is showing us how to declare methods that we can then use later
+//the file is showing how code should be structured
+//there is specific syntax that should be used 
